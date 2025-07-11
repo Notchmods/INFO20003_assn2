@@ -1,2 +1,2 @@
 # INFO20003_assn2
-SQL code for Assignment 2 of Database Systems
+SQL queries for a series of problems from Assignment 2 of Database Systems
